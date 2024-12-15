@@ -1,0 +1,15 @@
+/home/akib/Desktop/ConsoleApps/MathGame/MathGame/bin/Debug/net8.0/MathGame
+/home/akib/Desktop/ConsoleApps/MathGame/MathGame/bin/Debug/net8.0/MathGame.deps.json
+/home/akib/Desktop/ConsoleApps/MathGame/MathGame/bin/Debug/net8.0/MathGame.runtimeconfig.json
+/home/akib/Desktop/ConsoleApps/MathGame/MathGame/bin/Debug/net8.0/MathGame.dll
+/home/akib/Desktop/ConsoleApps/MathGame/MathGame/bin/Debug/net8.0/MathGame.pdb
+/home/akib/Desktop/ConsoleApps/MathGame/MathGame/obj/Debug/net8.0/MathGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/akib/Desktop/ConsoleApps/MathGame/MathGame/obj/Debug/net8.0/MathGame.AssemblyInfoInputs.cache
+/home/akib/Desktop/ConsoleApps/MathGame/MathGame/obj/Debug/net8.0/MathGame.AssemblyInfo.cs
+/home/akib/Desktop/ConsoleApps/MathGame/MathGame/obj/Debug/net8.0/MathGame.csproj.CoreCompileInputs.cache
+/home/akib/Desktop/ConsoleApps/MathGame/MathGame/obj/Debug/net8.0/MathGame.sourcelink.json
+/home/akib/Desktop/ConsoleApps/MathGame/MathGame/obj/Debug/net8.0/MathGame.dll
+/home/akib/Desktop/ConsoleApps/MathGame/MathGame/obj/Debug/net8.0/refint/MathGame.dll
+/home/akib/Desktop/ConsoleApps/MathGame/MathGame/obj/Debug/net8.0/MathGame.pdb
+/home/akib/Desktop/ConsoleApps/MathGame/MathGame/obj/Debug/net8.0/MathGame.genruntimeconfig.cache
+/home/akib/Desktop/ConsoleApps/MathGame/MathGame/obj/Debug/net8.0/ref/MathGame.dll
